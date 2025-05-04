@@ -6,7 +6,7 @@ class Solution(object):
         """
         mult = 1;
         answer = [];
-        for idx, x in enumerate(nums):
+        for x in nums:
             answer.append(mult);
             mult *= x;
         mult = 1;
