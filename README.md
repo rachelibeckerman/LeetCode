@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rachelibeckerman/LeetCode/tree/master/0011-container-with-most-water) |
+| [1894-merge-strings-alternately](https://github.com/rachelibeckerman/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rachelibeckerman/LeetCode/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/rachelibeckerman/LeetCode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
