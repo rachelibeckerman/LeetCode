@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rachelibeckerman/LeetCode/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/rachelibeckerman/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/rachelibeckerman/LeetCode/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rachelibeckerman/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/rachelibeckerman/LeetCode/tree/master/0724-find-pivot-index) |
 ## String
 |  |
 | ------- |
